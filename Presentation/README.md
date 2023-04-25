@@ -18,7 +18,7 @@ Cloud computing **provides seamless access to data and services** from anywhere,
 
 Cloud and IoT **improve home efficiency and resources**, but security is crucial to protect IoT devices and data from cyber threats.
 
-Eg:Let's say you have a smart security camera installed in your home that is connected to the internet. Using your smartphone, you can remotely monitor the camera feed and receive real-time alerts if any motion is detected in your home.
+**Eg:** Let's say you have a smart security camera installed in your home that is connected to the internet. Using your smartphone, you can remotely monitor the camera feed and receive real-time alerts if any motion is detected in your home.
 
 ## The IOT and the Cloud in your automobile
 
@@ -32,9 +32,9 @@ IoT sensors and cameras can **detect potential hazards and alert you to potentia
 
 Overall, IoT and cloud technology can provide you with a more efficient, safe, and connected driving experience, but it's important to secure your devices and data from cyber threats.
 
-Eg:An example of infotainment in a car is a touchscreen display that allows you to control the audio system, access your phone's contacts, play music from your phone or streaming services, and use GPS navigation to get directions to your destination. It's like having a computer or a smartphone built into your car that lets you stay entertained and informed while driving.
+**Eg:** An example of infotainment in a car is a touchscreen display that allows you to control the audio system, access your phone's contacts, play music from your phone or streaming services, and use GPS navigation to get directions to your destination. It's like having a computer or a smartphone built into your car that lets you stay entertained and informed while driving.
 
-##Personal : IOT in Healthcare
+## Personal : IOT in Healthcare
 
 IoT devices and cloud computing can be **used in healthcare to collect, monitor, and analyze patient data in real-time.**
 
@@ -48,5 +48,5 @@ IoT devices can help patients **manage chronic conditions by providing real-time
 
 Healthcare providers can **use data collected from multiple patients to identify trends and patterns and improve patient outcomes.**
 
-Eg:One example of personal IoT in healthcare is a wearable fitness tracker that monitors a person's heart rate, steps taken, and sleep patterns. This device collects data about the individual's activity and sends it to their smartphone or a cloud-based platform for analysis.
+**Eg:** One example of personal IoT in healthcare is a wearable fitness tracker that monitors a person's heart rate, steps taken, and sleep patterns. This device collects data about the individual's activity and sends it to their smartphone or a cloud-based platform for analysis.
 
