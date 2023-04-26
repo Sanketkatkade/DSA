@@ -44,7 +44,6 @@ Here are some examples of how IoT is being used in healthcare:
 
 - **Medication Management:** IoT devices can remind patients to take their medication and track whether they have taken it as prescribed. This can help improve medication adherence and reduce the risk of adverse drug reactions.
 
-- **Hospital Operations:** IoT devices can track inventory levels, monitor equipment usage, and automate tasks such as room cleaning and temperature control. This can help hospitals run more efficiently and reduce costs.
 
 **Eg:** One example of personal IoT in healthcare is a wearable fitness tracker that monitors a person's heart rate, steps taken, and sleep patterns. This device collects data about the individual's activity and sends it to their smartphone or a cloud-based platform for analysis.
 
