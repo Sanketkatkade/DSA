@@ -9,6 +9,7 @@ int countDigit(int x)
         int digit = x % 10;
         x /= 10;
         count++;
+        
     }
     return count;
 }
