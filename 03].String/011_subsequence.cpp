@@ -36,6 +36,9 @@ using namespace std;
 
 
 /***********reccursive method***************************/
+//Time = O(m+n)
+//space = O(m+n)
+
 bool isSubsequence(string s1, string s2, int n, int m)
 {
     if(m == 0){
