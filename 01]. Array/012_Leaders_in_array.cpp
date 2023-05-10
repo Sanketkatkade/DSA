@@ -66,7 +66,7 @@ void leaders(int arr[], int n)
 
 int main()
 {
-    int arr[7] = {11, 10, 4, 3, 2, 5, 2};
+    int arr[7] = {11, 10, 4, 11, 2, 5, 2};
     leaders(arr, 7);
     return 0;
 }
