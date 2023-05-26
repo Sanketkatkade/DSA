@@ -27,6 +27,7 @@ void spiralPrint(int arr[][4], int m, int n) {
             count++;
         }
         endingCol--;
+        
 
         // printing ending row
         for (int index = endingCol; index >= startingCol && count < total; index--) {
