@@ -14,6 +14,7 @@ int Majority_Element(int arr[], int n){
         }
         if (count > (n + 1) / 2){  
             return i;  
+            
         }
     }
     return -1;  
